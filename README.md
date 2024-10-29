@@ -23,10 +23,13 @@ Geographic Enrichment: Used Python for reverse geocoding of latitude and longitu
 - Data Cleaning and Transformation
 1- Parsing Pricing Details
 Separated out pricing elements such as base rates, service fees, cleaning fees, and taxes using Power BI's M Query transformations for more granular analysis.
+
 2- Discount and Fee Calculation
 Calculated applicable weekly and long-stay discounts to get adjusted booking prices.
+
 3- Data Consistency
 Standardized and categorized property types, checked for data consistency across columns, and created columns for total price, taxes, and special offers.
+
 4- Image Links
 Added manually gathered image links for properties for visual reference in the Power BI dashboard.
 
@@ -57,3 +60,19 @@ Optimize discount strategies based on booking duration to attract extended-stay 
 
 - Focus on High-Demand Areas
 Listings in popular neighborhoods or near attractions should be prioritized and enhanced to maximize occupancy and revenue.
+
+
+Intract with the data : [https://lnkd.in/dZsdAJS7](https://app.powerbi.com/view?r=eyJrIjoiYjM4MDI4Y2EtN2E5ZS00N2VlLTlmOTYtM2U4ZmE5MzVmNDc1IiwidCI6ImYwODM1ZmUyLTM5YzEtNDk4ZS1hMTkyLWEzODA2NzFiZDNjYyIsImMiOjl9)
+
+Data Source: https://www.kaggle.com/datasets/mohammedalsubaie/riyadh-airbnb
+
+
+https://github.com/user-attachments/assets/e225f25a-9b27-4e71-af22-3bf41fd7e5c0
+
+![Screenshot (453)](https://github.com/user-attachments/assets/1c5db743-7b43-4d76-ad17-6aeadc71e65d)
+
+
+
+![Screenshot (454)](https://github.com/user-attachments/assets/38b677cf-9fde-458e-b228-a36ab9f762a0)
+![Screenshot (452)](https://github.com/user-attachments/assets/04dcf779-ebbd-4f7e-af07-8e9869272721)
+
