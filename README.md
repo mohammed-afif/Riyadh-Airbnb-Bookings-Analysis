@@ -9,9 +9,9 @@ To analyze an Airbnb dataset for booked properties in Riyadh over the upcoming t
 
 Key Questions
 
-What are the pricing structures, including discounts and fees, for Riyadh properties?
-How do additional costs (service fees, cleaning fees, and taxes) affect total booking amounts?
-Which property types and locations offer the most value to customers?
+- What are the pricing structures, including discounts and fees, for Riyadh properties?
+- How do additional costs (service fees, cleaning fees, and taxes) affect total booking amounts?
+- Which property types and locations offer the most value to customers?
 
 ------------------------------------------------------------------------------------------------------------------
 
