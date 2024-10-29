@@ -18,9 +18,11 @@ Key Questions
 Methodology
 - Data Exploration
 Data Familiarization: Examined data fields covering property listings, reviews, ratings, pricing components, and more.
+
 Geographic Enrichment: Used Python for reverse geocoding of latitude and longitude coordinates to derive full property addresses, enhancing location-based analysis.
 
 - Data Cleaning and Transformation
+
 1- Parsing Pricing Details
 Separated out pricing elements such as base rates, service fees, cleaning fees, and taxes using Power BI's M Query transformations for more granular analysis.
 
